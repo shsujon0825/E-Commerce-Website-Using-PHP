@@ -23,28 +23,33 @@ An ecommerce web project using Object Oriented PHP, MySQL and Bootstrap
 
 ![Annotation 2019-10-24 221737](https://user-images.githubusercontent.com/37999184/67507007-ee588880-f6af-11e9-9a53-a52d95f4fc13.jpg)
 
-Front-End
+Front-End:
+
 (i) HTML5
 (ii) CSS3
 (iii) JavaScript
 
-Back-End
+Back-End:
+
 (i) PHP
 (ii) MySQL
 
-Public User
+Public User:
+
 (i) Search Product
 (ii) View Product
 (iii) Create User Account
 
-Signin User
+Signin User:
+
 (i) Search Product
 (ii) View Product
 (iii) Create Order
 (iv) Change Email & Password
 (v) Can View Previous Order with UPDATE and DELETE
 
-Admin
+Admin:
+
 (i) Add New Product
 (ii) Update Product
 (iii) Delete Product
